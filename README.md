@@ -1,8 +1,22 @@
-# React + Vite
+# Text-to-Speech Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A web application built with React and Vite that translates text into speech using an external API. Users can input text, select a target language, and hear the translated text spoken aloud.
+
+Key Features:
+- Text input for translation.
+- Language selection dropdown.
+- Speech synthesis for translated text.
+- Fast and lightweight thanks to Vite.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Integration](#api-integration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
