@@ -1,6 +1,6 @@
 # Text-to-Speech Translator
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+# Explore here:[https://text-speech-translator.vercel.app/]
 
 ## Description
 
@@ -11,12 +11,3 @@ Key Features:
 - Language selection dropdown.
 - Speech synthesis for translated text.
 - Fast and lightweight thanks to Vite.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Questions](#questions)
